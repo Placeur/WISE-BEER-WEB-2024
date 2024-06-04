@@ -1,0 +1,14 @@
+.navbar-brand img {
+    height: 100px;
+    width: auto;
+}
+
+.carousel-inner{
+    height: 650px;
+}
+
+.card-text-1 {
+    padding: 0%;
+    margin: auto;
+}
+
